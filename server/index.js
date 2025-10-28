@@ -3,7 +3,7 @@ const cors = require('cors');
 const { exec } = require('child_process');
 
 const app = express();
-const PORT = process.env.PORT || 4400;
+const PORT = process.env.PORT || 5400;
 
 app.use(cors());
 app.use(express.urlencoded({ extended: true }));
