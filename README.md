@@ -1,14 +1,14 @@
 # Browser setup (Mac only)
-This is my secret to keep balance when working for multiple companies. 
+This is my secret to keep balance when working with multiple browsers. 
 <br><br>
 <strong>By default</strong>, config will do the following:
 <table>
     <thead>
         <tr>
             <th>Personal stuff</th>
-            <th>Company A</th>
-            <th>Company B</th>
-            <th>Other stuff</th>
+            <th>Stuff A</th>
+            <th>Stuff B</th>
+            <th>Other things</th>
         </tr>
     </thead>
     <tbody>
@@ -16,7 +16,7 @@ This is my secret to keep balance when working for multiple companies.
             <td>Safari</td>
             <td>Chrome</td>
             <td>Firefox</td>
-            <td>Ask</td>
+            <td>Ask (opens browser chooser)</td>
         </tr>
     </tbody>
 </table>
