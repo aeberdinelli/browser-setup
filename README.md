@@ -78,8 +78,7 @@ This will open Google in Chrome, Twitter (x) in Firefox, ChatGPT in Safari, and 
 - [ ] Dynamically list available browsers
 - [ ] UI to better update config
 - [ ] Remember browser for next time opening certain link
-
 <br>
-<small>
-> Made with ♥️ by Alan
-</small>
+<p align="right">
+<sub>Made with ♥️ by Alan</sub>
+</p>
